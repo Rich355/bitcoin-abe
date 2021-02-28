@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-execfile("Abe/version.py")
+__version__ = '0.8pre'
 
 setup(
     name         = "Abe",
